@@ -1,4 +1,4 @@
-# EE447 Term Project Temperature-Initiated Object Detection#
+# EE447 Term Project Temperature-Initiated Object Detection
 
 [Project Definition](ee447_Term_Project_2024_25.pdf)
 
