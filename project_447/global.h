@@ -1,0 +1,1 @@
+extern int digital_temp_thr;
